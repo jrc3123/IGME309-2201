@@ -1,0 +1,5 @@
+﻿  shader.cpp
+C:\Users\campa\source\repos\IGME309-2201\ConfigPE\include\OpenGL-Tutorials\shader.cpp(12,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Main.cpp
+C:\Users\campa\source\repos\IGME309-2201\ConfigPE\ConfigPE\Main.h(10,10): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Generating Code...
